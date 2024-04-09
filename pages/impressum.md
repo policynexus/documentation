@@ -14,4 +14,4 @@ Stader Straße 111
 
 ----
 
-[^1] nach § 5 TMG und § 18 Abs. 1 MStV  
+[^1]: nach § 5 TMG und § 18 Abs. 1 MStV  
