@@ -1,6 +1,6 @@
 ---
 title: Links
-layout: links
+layout: default
 ---
 
 - [GitHub Organization](https://github.com/policynexus/)
