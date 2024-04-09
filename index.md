@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 2
 ---
 
 Many organizations often publish valuable ideas and public policies primarily on their official websites, which unfortunately remain hidden from the majority of people.
