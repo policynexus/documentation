@@ -1,6 +1,12 @@
 title: PolicyNexus
 description: Documentation for the PolicyNexus Project.
+
+
+
 theme: just-the-docs
+
+
+
 repository: https://github.com/policynexus/documentation
 
 url: https://docs.policynexus.eu/
@@ -11,4 +17,4 @@ url: https://docs.policynexus.eu/
 
 
 
-footer_content: 'Copyright &copy; 2024 Jan Dillenberger. | <a href="/pages/privacy.html">Privacy Policy</a> | <a href="/pages/privacy.html" >Impressum</a>'
+footer_content: 'Copyright &copy; 2024 Jan Dillenberger. | <a href="/pages/privacy.html">Privacy Policy</a> | <a href="/pages/impressum.html" >Impressum</a>'

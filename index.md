@@ -4,7 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-> Not much here yet. The Page (and everything else) is currently under construction!
+{: .note }
+Not much here yet. The **Page** (and everything else) is currently **under construction!**
 
 # What PolicyNexus will be
 

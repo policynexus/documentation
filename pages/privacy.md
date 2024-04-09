@@ -1,6 +1,7 @@
 ---
 layout: minimal
 title: Privacy Policy
+parent: Home
 nav_exclude: true
 ---
 
