@@ -5,16 +5,28 @@ description: Documentation for the PolicyNexus Project.
 
 theme: just-the-docs
 
-
-
 repository: https://github.com/policynexus/documentation
 
 url: https://docs.policynexus.eu/
 
-#nav_external_links:
-#  - title: PolicyNexus on GitHub
-#    url: https://github.com/policynexus
-
-
 
 footer_content: 'Copyright &copy; 2024 Jan Dillenberger. | <a href="/pages/privacy.html">Privacy Policy</a> | <a href="/pages/impressum.html" >Impressum</a>'
+
+color_scheme: dark
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red

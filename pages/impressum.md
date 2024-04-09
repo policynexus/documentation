@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Impressum
 parent: Home
 nav_exclude: true
