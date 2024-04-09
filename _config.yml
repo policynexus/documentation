@@ -10,9 +10,7 @@ repository: https://github.com/policynexus/documentation
 url: https://docs.policynexus.eu/
 
 
-footer_content: 'Copyright &copy; 2024 Jan Dillenberger. | <a href="/pages/privacy.html">Privacy Policy</a> | <a href="/pages/impressum.html" >Impressum</a>'
 
-color_scheme: dark
 
 callouts_level: quiet # or loud
 callouts:
@@ -30,3 +28,8 @@ callouts:
   warning:
     title: Warning
     color: red
+
+
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: 'Copyright &copy; 2024 Jan Dillenberger. | <a href="/pages/privacy.html">Privacy Policy</a> | <a href="/pages/impressum.html" >Impressum</a>'
