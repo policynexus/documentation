@@ -9,7 +9,10 @@ repository: https://github.com/policynexus/documentation
 
 url: https://docs.policynexus.eu/
 
-
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 
 callouts_level: quiet # or loud
