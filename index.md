@@ -15,7 +15,7 @@ nav_order: 1
 
 # What Policy Nexus will be
 
-Many organizations often publish valuable ideas and public policies primarily on their official websites, which unfortunately remain hidden from the majority of people.
+Many organizations often publish ideas and public policies primarily on their official websites, which unfortunately remain hidden from the majority of people.
 
 One significant challenge is that many individuals simply lack the time to scour numerous websites belonging to various organizations in search of updates.
 
