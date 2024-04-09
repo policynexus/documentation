@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Impressum
-parent: Home
 nav_exclude: true
 ---
 
@@ -14,4 +13,4 @@ Stader Straße 111
 
 ----
 
-[^1]: Projektverantwortlich nach § 5 TMG / § 18 Abs. 1 MStV  
+[^1]: Verantwortlich nach § 5 TMG / § 18 Abs. 1 MStV  
