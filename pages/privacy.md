@@ -4,6 +4,8 @@ title: Privacy Policy
 nav_exclude: true
 ---
 
+{:toc}
+
 # Objectives, Hacker Ethics, and GitHub Pages
 
 Following the hacker ethics of the CCC, the principle is to "Use public data, protect private data." We adhere to this principle.

@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+{:toc}
+
 # What Policy Nexus will be
 
 Many organizations often publish valuable ideas and public policies primarily on their official websites, which unfortunately remain hidden from the majority of people.
